@@ -1,7 +1,7 @@
 {
-  "name": "room homepage",
+  "name": "fylo data",
   "version": "1.0.0",
-  "description": "Ejericio de maquetado de Frontend Mentor Room Homepage",
+  "description": "Ejericio de maquetado de Frontend Mentor Fylo Data",
   "main": "gulpfile.babel.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
